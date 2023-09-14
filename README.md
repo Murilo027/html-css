@@ -8,11 +8,6 @@ teste
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CURRICULO DO MURILOCAPA</title>
     <style>
-
-        #r{
-            border: 5px solid rgba(0, 0, 0, 0.849);
-        }
-    </style>
 </head>
 <body>load
     <center><img src="índice.png"><center>
@@ -22,7 +17,5 @@ teste
     </h2>Atuar na area de manuntenção de computadeores.
         <h2>formado em :</h2> Curso tecnico em Informatica 
         <h2>Experiências em:</h2>Montar computadores;trocar pneu de carro;fazer ótimas comidas;tirar 10 em matemática
-
-    </center>
 </body>
 </html>
